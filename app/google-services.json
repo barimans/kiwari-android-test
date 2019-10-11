@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396629464589",
+    "firebase_url": "https://chat-aja-bd532.firebaseio.com",
+    "project_id": "chat-aja-bd532",
+    "storage_bucket": "chat-aja-bd532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396629464589:android:697b7017a0c8b020d1e744",
+        "android_client_info": {
+          "package_name": "id.bts.chataja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396629464589-6bcvfdmbbhk5pq55km6etdjnsks2tggg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.bts.chataja",
+            "certificate_hash": "b0a18ca7c8a96824937e2cacd80e57f98b96ab8d"
+          }
+        },
+        {
+          "client_id": "396629464589-vuiib6a5mqa4eke7kloiuh9pcqetb3je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8qpTnJu8zjN-spm43L4_sB5LLZFwH-kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396629464589-vuiib6a5mqa4eke7kloiuh9pcqetb3je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
